@@ -9,6 +9,7 @@ to run tomcat in mrdark:
 then->http://localhost:8080/
 ---------------------------------------------------------------------------------------------------
 for servlet program:-
+files(index.jsp,web.xml)
 1-setup maven and java 
 2-open vs code and create a folder
 3-rightclick -> maven->newproject (webapp)->1.4->-> save all in same folder
